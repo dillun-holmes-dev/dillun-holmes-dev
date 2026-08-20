@@ -31,13 +31,4 @@
 ⚡ Fun fact: I have a deep interest in hardware integrations and CI/CD pipelines.<br/>
 </p>
 
-<br/>
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dillun-holmes-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dillun's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=dillun-holmes-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="Dillun's GitHub Streak" />
-</p>
-
 </div>
