@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building robu
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dillun-holmes-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Dillun's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dillun-holmes-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Dillun's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=dillun-holmes-dev&theme=tokyonight&hide_border=true" alt="Dillun's GitHub Streak" />
 </p>
 
 ---
