@@ -11,10 +11,6 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,ts,react,flask,rust,linux,bash,githubactions&theme=dark&perline=10" alt="Python, C#, .NET, TypeScript, React, Flask, Rust, Linux, Bash, GitHub Actions" />
-
-<br/><br/>
-
 <h3>🌟 Featured projects</h3>
 
 <table>
