@@ -7,8 +7,6 @@
 <p><i>Building robust systems, seamless automations and intuitive web apps.</i></p>
 
 <a href="https://www.dillunholmes.co.za"><img src="https://img.shields.io/badge/Website-dillunholmes.co.za-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: dillunholmes.co.za" /></a>
-<img src="https://img.shields.io/badge/Currently-building%20SaaS-1e3a8a?style=for-the-badge&logo=rocket&logoColor=white" alt="Currently building SaaS" />
-
 <br/><br/>
 
 <h3>🌟 Featured projects</h3>
